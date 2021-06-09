@@ -1,6 +1,6 @@
 代码下载
 
-git clone https://afish-2020.github.io/dom.git
+git clone https://github.com/Afish-2020/dom.git
 
 代码使用方法
 
